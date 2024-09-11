@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wheficulp.github.io/sitemap.html.gz
+Sitemap: https://wheficulp.github.io/app/sitemap.html.gz
+Sitemap: https://wheficulp.github.io/assets/sitemap.html.gz
+Sitemap: https://wheficulp.github.io/css/sitemap.html.gz
+Sitemap: https://wheficulp.github.io/includes/sitemap.html.gz
+Sitemap: https://wheficulp.github.io/item/sitemap.html.gz
+Sitemap: https://wheficulp.github.io/src/sitemap.html.gz
